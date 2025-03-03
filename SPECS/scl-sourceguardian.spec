@@ -26,7 +26,7 @@ Vendor:  cPanel, Inc.
 Summary: Loader for SourceGuardian-encoded PHP files
 Version: 16.0.2
 # Doing release_prefix this way for Release allows for OBS-proof versioning, See EA-4592 for more details
-%define release_prefix 2
+%define release_prefix 1
 Release: %{release_prefix}%{?dist}.cpanel
 License: Redistributable
 Group:   Development/Languages
